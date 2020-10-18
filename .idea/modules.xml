@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../c04-ch6-exercices-kawtar530/.idea/c04-ch6-exercices-kawtar530.iml" filepath="$PROJECT_DIR$/../c04-ch6-exercices-kawtar530/.idea/c04-ch6-exercices-kawtar530.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/c04-ch7-exercices-kawtar530.iml" filepath="$PROJECT_DIR$/.idea/c04-ch7-exercices-kawtar530.iml" />
     </modules>
   </component>
